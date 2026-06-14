@@ -1,0 +1,6 @@
+{
+  "name": "DreamPhone Savings Tracker",
+  "description": "A premium, minimalist savings and budget tracker with intuitive gesture controls to help you achieve your dream devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
